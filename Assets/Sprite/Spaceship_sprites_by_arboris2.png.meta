@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: f6ed1110cb7578947888da5e1914781e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spaceship_sprites_by_arboris2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 321
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 321
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 321
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 174
+        width: 57
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 51
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 274
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 281
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 274
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 274
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 231
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 235
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 231
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 231
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 217
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 212
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 178
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bullet01
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 11
+        height: 11
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: Spaceship_sprites_by_arboris2_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bullet02
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Spaceship_sprites_by_arboris2_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 67
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 26
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spaceship_sprites_by_arboris2_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
